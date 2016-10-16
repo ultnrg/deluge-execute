@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: Execute
+Version: 1.3
+Summary: Plugin to execute a command upon an event
+Home-page: http://deluge-torrent.org
+Author: Damien Churchill
+Author-email: damoxc@gmail.com
+License: GPLv3
+Description: Plugin to execute a command upon an event
+Platform: UNKNOWN

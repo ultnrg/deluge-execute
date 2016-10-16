@@ -1,0 +1,16 @@
+setup.py
+Execute.egg-info/PKG-INFO
+Execute.egg-info/SOURCES.txt
+Execute.egg-info/dependency_links.txt
+Execute.egg-info/entry_points.txt
+Execute.egg-info/namespace_packages.txt
+Execute.egg-info/top_level.txt
+deluge/__init__.py
+deluge/plugins/__init__.py
+deluge/plugins/execute/__init__.py
+deluge/plugins/execute/common.py
+deluge/plugins/execute/core.py
+deluge/plugins/execute/gtkui.py
+deluge/plugins/execute/webui.py
+deluge/plugins/execute/data/execute.js
+deluge/plugins/execute/data/execute_prefs.glade
